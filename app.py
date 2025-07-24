@@ -5,7 +5,7 @@ import speech_recognition as sr
 import os
 
 # Page configuration
-st.set_page_config(page_title="🎓 ROHU Language Translator", layout="wide", page_icon="🗣️")
+st.set_page_config(page_title="🎓 ROPHI Language Translator", layout="wide", page_icon="🗣️")
 
 # Translator setup
 translator = Translator()
@@ -46,7 +46,7 @@ def text_to_speech(text, lang_code):
 
 # ---- TITLE SECTION ----
 st.markdown("""
-    <h1 style='text-align: center;'> 🎓  ROHU Language Translator</h1>
+    <h1 style='text-align: center;'> 🎓  ROPHI Language Translator</h1>
     <p style='text-align: center; font-size: 18px; font-style: italic; color: #555; margin-top: -10px;'>
         "Speak once, be understood everywhere."
     </p>
@@ -133,6 +133,6 @@ else:
 st.markdown("""
     <hr>
     <p style='text-align: center; font-size: 16px; color: gray;'>
-        🙏 Thank you for using the ROHU Language Translator. We hope it helps you connect better with the world.
+        🙏 Thank you for using the ROPHI Language Translator. We hope it helps you connect better with the world.
     </p>
 """, unsafe_allow_html=True)
