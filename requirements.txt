@@ -6,6 +6,5 @@ Pillow
 googletrans==4.0.0-rc1
 gTTS
 SpeechRecognition
-Python==3.10
 
 
