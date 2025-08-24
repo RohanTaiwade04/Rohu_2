@@ -5,13 +5,6 @@
 
 ---
 
-## 🚀 Try the App
-
-👉 [Click here to open the app](https://b8khsehpx45pduwr9reiky.streamlit.app/)
-
-No installation needed — just open the link in your browser!
-
----
 
 ## ✅ Features
 
